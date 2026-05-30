@@ -1,6 +1,6 @@
 # 👋 Hey, I'm John
 
-**Software Engineer — Backend & Quantitative Data**
+**Software Engineer**
 
 I build robust backend systems and data-driven models that power real products. My work sits at the intersection of clean backend engineering and quantitative data analysis — from scalable Laravel APIs to Python-based ML pipelines running on live financial data.
 
